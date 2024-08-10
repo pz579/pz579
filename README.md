@@ -1,8 +1,9 @@
+<h1 align="center">Hallo 👋</h1>
 <h3 align="center">I'm Counter-strike pro with too much free time</h3>
 
 - 🌱 I’m currently learning **sql, python, javascript, c, c#**
 
-- ⚡ Fun fact **i love counter-strike**
+- ⚡ Fun fact **i love counter-strike and vagabond**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
