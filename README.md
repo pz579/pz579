@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋</h1>
-<h3 align="center">a Counter-strike pro with too much free time</h3>
+<h3 align="center">A Counter-strike pro with too much free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pz579&label=Profile%20views&color=0e75b6&style=flat" alt="pz579" /> </p>
 
