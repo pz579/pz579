@@ -58,11 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/pz579/pz579/output/snake.svg" alt="Snake animation" />
-
-###
 
  <br>
 <p><img align="center" src="https://i.pinimg.com/originals/29/b9/13/29b913ba06648273dda47b86bf7536f4.jpg" /></p>
