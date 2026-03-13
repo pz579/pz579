@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/pz579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pz579" height="30" width="40" /></a>
 <a href="https://instagram.com/pz579cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pz579cs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pz579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pz579" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pz579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pz579" height="30" width="40" /></a>
 <a href="https://discord.gg/pz579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pz579" height="30" width="40" /></a>
 </p>
 
